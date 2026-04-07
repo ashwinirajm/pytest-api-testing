@@ -1,16 +1,16 @@
 # Pytest API Automation Framework
 
-## 🚀 Overview
+## Overview
 
 This project is a scalable API automation framework built using Python, pytest, and requests. It includes reusable API clients, structured test cases, and authentication handling.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * Python
 * pytest
 * requests
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tests/
@@ -20,7 +20,7 @@ data/
 conftest.py
 ```
 
-## ✅ Features
+## Features
 
 * CRUD API test coverage
 * Parameterized tests
@@ -29,7 +29,7 @@ conftest.py
 * Negative testing
 * Structured validations
 
-## ▶️ Run Tests
+## Run Tests
 
 ```
 pytest -v
